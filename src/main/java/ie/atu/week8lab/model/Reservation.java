@@ -1,5 +1,6 @@
 package ie.atu.week8lab.model;
 
+<<<<<<< HEAD
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -34,4 +35,7 @@ public class Reservation  {
     @Max(value = 24, message = "durationHours must be between 1 and 24")
     private int durationHours;
 
+=======
+public class Reservation  {
+>>>>>>> week8lab5/master
 }

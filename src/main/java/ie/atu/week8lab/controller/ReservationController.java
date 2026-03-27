@@ -1,5 +1,6 @@
 package ie.atu.week8lab.controller;
 
+<<<<<<< HEAD
 import ie.atu.week8lab.model.Reservation;
 import ie.atu.week8lab.service.ReservationService;
 import jakarta.validation.Valid;
@@ -12,5 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/reservations")
+=======
+>>>>>>> week8lab5/master
 public class ReservationController {
 }
